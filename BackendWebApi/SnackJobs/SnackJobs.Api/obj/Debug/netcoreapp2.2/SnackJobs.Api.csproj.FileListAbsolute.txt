@@ -1,0 +1,17 @@
+C:\Users\alperen\Desktop\MustafaAlperen_Polat_2\MustafaAlperen_Polat\BackendWebApi\SnackJobs\SnackJobs.Api\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\alperen\Desktop\MustafaAlperen_Polat_2\MustafaAlperen_Polat\BackendWebApi\SnackJobs\SnackJobs.Api\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\alperen\Desktop\MustafaAlperen_Polat_2\MustafaAlperen_Polat\BackendWebApi\SnackJobs\SnackJobs.Api\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\alperen\Desktop\MustafaAlperen_Polat_2\MustafaAlperen_Polat\BackendWebApi\SnackJobs\SnackJobs.Api\bin\Debug\netcoreapp2.2\SnackJobs.Api.deps.json
+C:\Users\alperen\Desktop\MustafaAlperen_Polat_2\MustafaAlperen_Polat\BackendWebApi\SnackJobs\SnackJobs.Api\bin\Debug\netcoreapp2.2\SnackJobs.Api.runtimeconfig.json
+C:\Users\alperen\Desktop\MustafaAlperen_Polat_2\MustafaAlperen_Polat\BackendWebApi\SnackJobs\SnackJobs.Api\bin\Debug\netcoreapp2.2\SnackJobs.Api.runtimeconfig.dev.json
+C:\Users\alperen\Desktop\MustafaAlperen_Polat_2\MustafaAlperen_Polat\BackendWebApi\SnackJobs\SnackJobs.Api\bin\Debug\netcoreapp2.2\SnackJobs.Api.dll
+C:\Users\alperen\Desktop\MustafaAlperen_Polat_2\MustafaAlperen_Polat\BackendWebApi\SnackJobs\SnackJobs.Api\bin\Debug\netcoreapp2.2\SnackJobs.Api.pdb
+C:\Users\alperen\Desktop\MustafaAlperen_Polat_2\MustafaAlperen_Polat\BackendWebApi\SnackJobs\SnackJobs.Api\bin\Debug\netcoreapp2.2\SnackJobs.Api.xml
+C:\Users\alperen\Desktop\MustafaAlperen_Polat_2\MustafaAlperen_Polat\BackendWebApi\SnackJobs\SnackJobs.Api\obj\Debug\netcoreapp2.2\SnackJobs.Api.csprojAssemblyReference.cache
+C:\Users\alperen\Desktop\MustafaAlperen_Polat_2\MustafaAlperen_Polat\BackendWebApi\SnackJobs\SnackJobs.Api\obj\Debug\netcoreapp2.2\SnackJobs.Api.RazorAssemblyInfo.cache
+C:\Users\alperen\Desktop\MustafaAlperen_Polat_2\MustafaAlperen_Polat\BackendWebApi\SnackJobs\SnackJobs.Api\obj\Debug\netcoreapp2.2\SnackJobs.Api.RazorAssemblyInfo.cs
+C:\Users\alperen\Desktop\MustafaAlperen_Polat_2\MustafaAlperen_Polat\BackendWebApi\SnackJobs\SnackJobs.Api\obj\Debug\netcoreapp2.2\SnackJobs.Api.AssemblyInfoInputs.cache
+C:\Users\alperen\Desktop\MustafaAlperen_Polat_2\MustafaAlperen_Polat\BackendWebApi\SnackJobs\SnackJobs.Api\obj\Debug\netcoreapp2.2\SnackJobs.Api.AssemblyInfo.cs
+C:\Users\alperen\Desktop\MustafaAlperen_Polat_2\MustafaAlperen_Polat\BackendWebApi\SnackJobs\SnackJobs.Api\obj\Debug\netcoreapp2.2\SnackJobs.Api.RazorTargetAssemblyInfo.cache
+C:\Users\alperen\Desktop\MustafaAlperen_Polat_2\MustafaAlperen_Polat\BackendWebApi\SnackJobs\SnackJobs.Api\obj\Debug\netcoreapp2.2\SnackJobs.Api.dll
+C:\Users\alperen\Desktop\MustafaAlperen_Polat_2\MustafaAlperen_Polat\BackendWebApi\SnackJobs\SnackJobs.Api\obj\Debug\netcoreapp2.2\SnackJobs.Api.pdb

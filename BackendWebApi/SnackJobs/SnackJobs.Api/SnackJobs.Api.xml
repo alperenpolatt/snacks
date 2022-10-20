@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SnackJobs.Api</name>
+    </assembly>
+    <members>
+        <member name="P:SnackJobs.Api.Models.Application.Done.AcceptApplicationModel.GivenApplicationId">
+            <summary>
+            Due to done application is composite key...
+            UserId : employee id
+            </summary>
+        </member>
+        <member name="P:SnackJobs.Api.Models.Application.Done.DenyApplicationModel.GivenApplicationId">
+            <summary>
+            Due to done application is composite key...
+            UserId : employee id
+            </summary>
+        </member>
+        <member name="M:SnackJobs.Api.Tiers.Core.EntitiesHelper.IRootEntity.GetKeys">
+            <summary>
+            Returns an array of ordered keys for this entity.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:SnackJobs.Api.Tiers.Core.EntitiesHelper.IRootEntity`1">
+            <summary>
+            Defines an entity with a single primary key with "Id" property.
+            </summary>
+            <typeparam name="TKey">Type of the primary key of the entity</typeparam>
+        </member>
+        <member name="P:SnackJobs.Api.Tiers.Core.EntitiesHelper.IRootEntity`1.Id">
+            <summary>
+            Unique identifier for this entity.
+            </summary>
+        </member>
+        <member name="M:SnackJobs.Api.Tiers.Core.EntitiesHelper.RootEntity`1.ToString">
+            <inheritdoc/>
+        </member>
+        <member name="M:SnackJobs.Api.Tiers.Core.EntitiesHelper.TypeExtension.ToList``1">
+            <summary>
+            Creates an List with all keys and values of a given Enum class
+            </summary>
+            <typeparam name="T">Must be derived from class Enum!</typeparam>
+            <returns>A list of KeyValuePair&lt;Enum, string&gt; with all available
+            names and values of the given Enum.</returns>
+        </member>
+    </members>
+</doc>
